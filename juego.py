@@ -1,2 +1,1 @@
-print("hola")
-print("helo")
+print("last")
