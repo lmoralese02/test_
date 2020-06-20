@@ -1,1 +1,2 @@
 print("last")
+print("hi")
